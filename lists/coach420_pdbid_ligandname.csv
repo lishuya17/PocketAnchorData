@@ -1,0 +1,421 @@
+pdbid,ligand_name
+148lE,{'UUU'}
+1a26A,{'CNA'}
+1a2kC,{'GDP'}
+1a4kH,{'FRA'}
+1a7xA,{'FKA'}
+1a8tA,{'061'}
+1afkA,{'PAP'}
+1arcA,{'TCK'}
+1atlA,{'0QI'}
+1b8uA,"{'OAA', 'NAD'}"
+1blcA,{'UUU'}
+1bnwA,{'TPD'}
+1bq3A,{'IHP'}
+1bqoB,{'N25'}
+1br6A,{'PT1'}
+1bs1A,"{'DAA', 'ADP'}"
+1bsvA,{'NDP'}
+1bxqA,"{'PP8', 'MAN'}"
+1bzyA,"{'POP', 'IMU'}"
+1c1hA,{'MMP'}
+1c3jA,{'UDP'}
+1c5iA,{'UUU'}
+1cenA,{'BGC'}
+1cetA,{'CLQ'}
+1ch8A,"{'GPX', 'IMP', 'HDA'}"
+1cimA,"{'MMC', 'PTS'}"
+1cqfB,{'UUU'}
+1d3pB,{'BT3'}
+1d4pB,{'BPP'}
+1dcpA,{'HBI'}
+1ddtA,{'APU'}
+1e3vA,{'DXC'}
+1e4gT,{'ATP'}
+1e5qA,"{'NDP', 'SHR'}"
+1efyA,{'BZC'}
+1einA,{'PLC'}
+1eswA,{'ACR'}
+1etrH,{'MIT'}
+1ettH,{'0ZG'}
+1eveA,{'E20'}
+1ex8A,{'A4P'}
+1exaA,{'394'}
+1eyrA,{'CDP'}
+1ezqA,{'RPR'}
+1f0tA,{'PR1'}
+1f4eA,{'TPR'}
+1f4fA,{'TP3'}
+1f4gA,{'TP4'}
+1f7bA,{'NAU'}
+1f8gA,{'NAD'}
+1fcvA,{'UUU'}
+1ffqA,{'UUU'}
+1fjsA,{'Z34'}
+1fk6A,"{'FMT', 'LNL'}"
+1fkgA,{'SB3'}
+1foaA,{'UD1'}
+1fqoA,{'F6R'}
+1fthA,{'A3P'}
+1g4oA,{'BSB'}
+1g6cA,"{'IFP', 'POP', 'TZP'}"
+1g97A,{'UD1'}
+1goqA,{'XYP'}
+1goyA,{'3GP'}
+1gsaA,"{'SO4', 'GSH', 'ADP'}"
+1gwmA,{'UUU'}
+1gwxA,{'433'}
+1h0sA,{'FA6'}
+1h1pA,{'CMG'}
+1h1sA,{'4SP'}
+1h9uA,{'LG2'}
+1hdqA,{'INF'}
+1hnjA,{'MLC'}
+1hpvA,{'478'}
+1htfA,{'G26'}
+1i1hA,{'COJ'}
+1i7lA,{'ATP'}
+1i7zA,{'COC'}
+1i8zA,{'INL'}
+1if7A,{'SBR'}
+1ixnA,"{'DXP', 'G3P'}"
+1j8rA,{'UUU'}
+1j9kA,{'WO4'}
+1jcgA,{'ANP'}
+1jclB,{'HPD'}
+1jieA,{'BLM'}
+1jkkA,{'ANP'}
+1jq3A,{'AAT'}
+1jsvA,{'U55'}
+1jylA,{'CDC'}
+1k0nA,{'GSH'}
+1k1jA,{'FD2'}
+1k22H,{'MEL'}
+1k3yA,"{'GTX', 'GOL'}"
+1k54A,{'HOQ'}
+1k7eA,{'IAG'}
+1k7fA,{'IAV'}
+1kaqA,{'DND'}
+1kgzB,{'PRP'}
+1khrD,"{'COA', 'VIR'}"
+1kpeB,{'ADW'}
+1kv1A,{'BMU'}
+1kv2A,{'B96'}
+1kwcB,{'BPY'}
+1l8gA,{'DBD'}
+1lbyA,"{'PO4', 'F6P'}"
+1lloA,{'UUU'}
+1llrD,{'UUU'}
+1lqdB,{'CMI'}
+1lspA,{'BUL'}
+1ltzA,{'HBI'}
+1lxmA,{'UUU'}
+1lzsA,{'NAG'}
+1m48A,{'FRG'}
+1mbzA,"{'POP', 'IOT'}"
+1mkaA,{'DAC'}
+1mmbA,{'BAT'}
+1mncA,{'PLH'}
+1mq5A,{'XLC'}
+1mq6A,{'XLD'}
+1mu0A,{'PHK'}
+1mxiA,{'SAH'}
+1n07A,"{'FMN', 'ADP'}"
+1ndiA,{'COA'}
+1nhuA,{'153'}
+1nhvA,{'154'}
+1nmkA,{'SFM'}
+1nz7A,{'901'}
+1o86A,"{'GLY', 'LPR'}"
+1of8B,"{'PEP', 'G3P'}"
+1og1A,{'TAD'}
+1ogkB,{'DUD'}
+1ogoX,{'UUU'}
+1ohrA,{'1UN'}
+1ojzA,{'NAD'}
+1onhA,{'WY4'}
+1ow3B,{'UUU'}
+1oxmA,{'TC4'}
+1oxvA,{'ANP'}
+1p4nA,{'UUU'}
+1p5rA,{'COA'}
+1p77A,{'ATR'}
+1pfkA,"{'FBP', 'ADP'}"
+1pkkB,{'DCP'}
+1pnfA,{'UUU'}
+1ppcE,{'MID'}
+1pphE,{'0ZG'}
+1pw1A,{'HEL'}
+1q51A,{'CAA'}
+1q8jA,{'C2F'}
+1qbuA,{'846'}
+1qhiA,{'BPG'}
+1qjiA,{'PKF'}
+1ql9A,{'ZEN'}
+1qtiA,{'GNT'}
+1r091,{'JEN'}
+1r15A,{'NCA'}
+1ri1A,"{'GTG', 'SAH'}"
+1rn8A,{'DUP'}
+1rsdA,{'PSB'}
+1rzuA,{'ADP'}
+1s3fA,{'SNI'}
+1s7lA,{'COA'}
+1sbyA,"{'ETF', 'NAD'}"
+1sgcA,{'III'}
+1sqfA,{'SAM'}
+1sthA,{'THP'}
+1svwA,{'GTP'}
+1swkA,{'BTN'}
+1sz3A,{'GNP'}
+1szjG,{'NAD'}
+1teiA,{'UUU'}
+1theA,{'0E6'}
+1tjwA,{'AS1'}
+1tkyA,{'A3S'}
+1tvpB,{'CBI'}
+1txcA,{'2AN'}
+1tywA,{'UUU'}
+1u72A,"{'NDP', 'MTX'}"
+1u7zA,{'PMT'}
+1uamA,"{'PO4', 'SAH'}"
+1ucdA,"{'U5P', 'URA'}"
+1uf8A,{'ING'}
+1um0A,{'FMN'}
+1uvtH,{'I48'}
+1v0yA,{'HI5'}
+1v3sA,{'ATP'}
+1vcuA,{'DAN'}
+1vh3A,{'CMK'}
+1vpsB,{'UUU'}
+1wnzA,{'2VA'}
+1wopA,{'FFO'}
+1wq1G,{'UUU'}
+1x2bA,{'STX'}
+1x55A,{'NSS'}
+1x6uA,{'DO8'}
+1x7pA,{'SAM'}
+1xdhA,{'UUU'}
+1xnyA,"{'BTN', '191'}"
+1xpyC,{'NLQ'}
+1xqpA,{'8HG'}
+1xtbA,{'S6P'}
+1xvtA,{'COA'}
+1xwqA,{'XYP'}
+1xz8A,{'UUU'}
+1y2vA,{'III'}
+1y30A,{'FMN'}
+1y3iA,{'NAD'}
+1ybuA,{'APC'}
+1ydsE,{'IQS'}
+1ydtE,{'IQB'}
+1yfrA,{'ATP'}
+1ytjA,{'III'}
+1ytmA,"{'OXD', 'ATP'}"
+1zajA,{'M2P'}
+1zdfA,{'UPG'}
+1znzA,{'GDP'}
+1zt9A,{'TRP'}
+1zu0A,{'CBS'}
+2ahwA,{'COA'}
+2artA,{'UUU'}
+2ateA,{'NIA'}
+2b3dA,{'FAD'}
+2b99A,{'RDL'}
+2bawA,"{'VCA', 'B7G'}"
+2bbwA,{'GP5'}
+2bogX,{'UUU'}
+2c6zA,{'CIR'}
+2c96A,{'ATP'}
+2chtF,{'TSA'}
+2chzA,{'093'}
+2csnA,{'CKI'}
+2cwhB,"{'NDP', 'PYC'}"
+2cx8A,{'SAH'}
+2d29A,{'FAD'}
+2dkcA,"{'PO4', '16G'}"
+2dptA,"{'PUY', 'TAR'}"
+2dttB,{'H4B'}
+2dveA,{'BT5'}
+2dyaB,{'ADP'}
+2dzbA,{'HH2'}
+2e0nB,{'SAH'}
+2e1tA,{'MLC'}
+2e3rA,{'18C'}
+2e5mA,{'NAP'}
+2e6uX,{'COA'}
+2e9zA,{'UTP'}
+2ed4A,"{'FAD', 'NAD'}"
+2f9wA,{'PAU'}
+2fa0A,{'HMG'}
+2fhjA,"{'MFN', 'H4Z'}"
+2fk8A,{'SAM'}
+2fsgA,{'ATP'}
+2fv0A,{'UUU'}
+2fzsB,{'CMQ'}
+2g25A,{'TDK'}
+2g97A,{'DGB'}
+2gfxA,{'PMN'}
+2ggaA,"{'S3P', 'GPJ'}"
+2gj5A,{'VD3'}
+2gteA,set()
+2gwhA,"{'PCI', 'A3P'}"
+2gz3A,"{'AS2', 'NAP'}"
+2hblA,{'AMP'}
+2hixA,{'ATP'}
+2hk1A,{'FUD'}
+2hl0A,{'A3S'}
+2hobA,{'3IH'}
+2hxmA,{'302'}
+2hzqA,{'STR'}
+2i4nB,{'5CA'}
+2i56A,{'RNS'}
+2ihzA,"{'CSF', 'LBT'}"
+2ioaA,"{'GGA', 'ADP'}"
+2irxA,{'GTP'}
+2ixlA,{'TRH'}
+2j4eB,{'ITT'}
+2j72B,{'GLC'}
+2j8yA,{'PNM'}
+2jbtA,"{'FMN', '4HP'}"
+2jgvD,{'ADP'}
+2ntyC,{'GDP'}
+2oalB,{'FAD'}
+2oecB,{'ANU'}
+2ovdA,{'DAO'}
+2pknA,{'ACP'}
+2q6vA,{'UDP'}
+2q71A,{'CP3'}
+2qehA,{'SRO'}
+2qo9A,{'ANP'}
+2qttA,{'ADE'}
+2qv7A,{'ADP'}
+2qwiA,"{'NAG', 'UUU', 'G20'}"
+2qyqA,{'PTR'}
+2qzzA,"{'EMF', 'NAP'}"
+2r68A,{'SUP'}
+2r7aA,{'HEM'}
+2rfhA,{'23N'}
+2rjcA,{'MES'}
+2rk2A,{'NAP'}
+2rkmA,{'III'}
+2royA,{'P28'}
+2uyqA,{'SAM'}
+2v8lA,{'GLC'}
+2vaqA,{'VAW'}
+2varA,{'UUU'}
+2vcjA,{'2EQ'}
+2vfcA,{'COA'}
+2vflA,{'C5P'}
+2vkmA,{'BSD'}
+2vu9A,{'UUU'}
+2w1aC,{'TSA'}
+2wn7A,{'NAD'}
+2wvaA,{'TPU'}
+2wzmA,{'NA7'}
+2x4oA,{'III'}
+2x60A,{'GTP'}
+2yw2A,"{'PO4', 'ATP'}"
+2yw9D,{'NAP'}
+2ywcA,{'XMP'}
+2yyuB,{'C5P'}
+2z09A,{'ACP'}
+2z0xA,{'5CA'}
+2z1sA,{'CTT'}
+2za1A,{'OMP'}
+2zasA,{'1OH'}
+2zcpA,{'FPS'}
+2zdqA,"{'DAL', 'ATP'}"
+2zgmB,{'LAT'}
+2zgzA,{'GNP'}
+2zhzB,{'ATP'}
+2zjaA,{'ACP'}
+2zu3A,{'ZU3'}
+3a0tA,{'ADP'}
+3a2sX,{'SUC'}
+3a5rA,{'HC4'}
+3aaqA,{'ARU'}
+3adpA,{'NAI'}
+3b3fA,{'SAH'}
+3b4yA,"{'F42', 'FLC'}"
+3b6aA,{'ZCT'}
+3bazA,{'NAP'}
+3btsB,{'NAD'}
+3bynA,{'RAF'}
+3c2fA,{'PRP'}
+3cagA,{'ARG'}
+3cgyA,{'RDC'}
+3cpaA,{'III'}
+3crrA,{'DPO'}
+3ct5A,{'NAG'}
+3cwkA,{'REA'}
+3cxiA,{'VIT'}
+3d1gA,{'322'}
+3d4pA,"{'PYR', 'NAD'}"
+3dsrA,{'ADP'}
+3du4A,"{'PLP', 'KAP'}"
+3duwA,{'SAH'}
+3dwrA,{'0PA'}
+3dzlB,{'3OC'}
+3e3sA,{'I3C'}
+3efvA,{'NAD'}
+3ej0A,{'11X'}
+3ek5A,{'GTP'}
+3ergA,{'GTS'}
+3erkA,{'SB4'}
+3exsA,{'5RP'}
+3f1kA,{'NAP'}
+3f47A,{'UUU'}
+3ftfA,{'SAH'}
+3fwrA,{'ADP'}
+3g1xA,set()
+3gd9A,{'UUU'}
+3gdlA,{'UP6'}
+3gh6A,{'GSH'}
+3gidA,{'S1A'}
+3gplA,{'ANP'}
+3gpoA,{'APR'}
+3gqkA,{'ATP'}
+3h18A,{'PMS'}
+3h2kA,{'BOG'}
+3h39A,{'ATP'}
+3h72A,{'SIA'}
+3hitA,{'DYN'}
+3hiyA,{'UTP'}
+3hp8A,{'SUC'}
+3hpiA,{'SUC'}
+3hvlA,{'SRL'}
+3hvoA,{'VGI'}
+3i0dA,{'UDP'}
+3i6cA,{'GIA'}
+3i8xA,{'GDP'}
+3idoA,{'EPE'}
+3iesA,{'M24'}
+3iiqA,"{'UUU', 'TRT', 'JZA'}"
+3in1A,{'ADP'}
+3jynA,{'NDP'}
+3kakA,{'3GC'}
+3kbnA,{'GLO'}
+3kdiA,{'A8S'}
+3kjgA,{'ADP'}
+3kp5A,{'KAN'}
+3ku1A,{'SAM'}
+3kv8A,{'FAH'}
+3lbzA,"{'Z89', 'Z88'}"
+3ldkA,{'SUC'}
+3ll3A,"{'DXP', 'XUL', 'ATP'}"
+3lzzA,{'GDP'}
+3m4eA,{'BCD'}
+3manA,{'UUU'}
+3maqA,{'DGT'}
+3nk7A,{'SAM'}
+3stdA,{'MQ0'}
+4f10A,{'UUU'}
+4stdA,{'BFS'}
+5galB,{'UUU'}
+5stdA,{'UNN'}
+5tlnA,{'BAN'}
+7dfrA,"{'NAP', 'FOL'}"
+7estE,"{'DMF', '0Z2'}"
+830cA,{'RS1'}
+966cA,{'RS2'}
