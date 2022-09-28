@@ -10,3 +10,5 @@ MasifOutput/
 AnchorOutput/
 *.zip
 *.fasta
+.ipynb_checkpoints/
+

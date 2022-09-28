@@ -50,8 +50,11 @@ def sample_coords(pdbid, start_point, seed=1234, step=1, extend=3, pl_thre=2, pr
         initial_coords = np.array([x_coords[points[0]], y_coords[points[1]], z_coords[points[2]]]).transpose()
 
         pp_distance = pairwise_distances(protein_exposed, initial_coords)
+#         print(pp_distance.min(axis=0))
         pp_distance_filter = (pp_distance.min(axis=0) >= pl_thre) & (pp_distance.min(axis=0) <= pr_thre)
         coords = initial_coords[pp_distance_filter, :]
+        if len(coords) == 0:
+            return None
         if isprint:
             print('number of in-pocket points', 'coords', coords.shape)
         
@@ -75,11 +78,16 @@ if __name__ == '__main__':
     t0 = time.time()
     
     np.random.seed(1234)
-    seed_list = np.random.randint(0, 10000, repeat)
+    seed_list = np.random.randint(0, 10000, repeat*10)
     
     repeat_list = []
+    
     for i_rep in range(repeat):
-        points = sample_coords(pdbid, center, seed_list[i_rep])
+        points = None
+        i_try = 0
+        while points is None and i_try <= 10:
+            points = sample_coords(pdbid, center, seed_list[i_rep*10+i_try], isprint=False)
+            i_try += 1
         ac_single = AgglomerativeClustering(n_clusters=None, distance_threshold=2, affinity='euclidean', linkage='single')
         ac_single.fit(points)
 
