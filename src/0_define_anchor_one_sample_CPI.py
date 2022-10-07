@@ -85,7 +85,7 @@ if __name__ == '__main__':
     for i_rep in range(repeat):
         points = None
         i_try = 0
-        while points is None and i_try <= 10:
+        while points is None and i_try < 10:
             points = sample_coords(pdbid, center, seed_list[i_rep*10+i_try], isprint=False)
             i_try += 1
         ac_single = AgglomerativeClustering(n_clusters=None, distance_threshold=2, affinity='euclidean', linkage='single')

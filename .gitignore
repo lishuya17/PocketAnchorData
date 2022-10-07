@@ -11,4 +11,7 @@ AnchorOutput/
 *.zip
 *.fasta
 .ipynb_checkpoints/
+*.zip
+*.out
+*.log
 
