@@ -4,7 +4,7 @@
 If generating MaSIF precomputed features is needed, please download the corresponding docker container for easy calculation of MaSIF precomputed features:
 
 ```
-docker pull lishuya17/masif-mini-server:tagname
+docker pull lishuya17/masif-mini-server:20220924
 ```
 
 Before calculating the MaSIF precomputed features, please start the service:
