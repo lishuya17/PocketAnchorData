@@ -5,6 +5,7 @@ AffinityPrediction*/
 smith-waterman-src/*.fasta
 smith-waterman-src/*.out
 tmp/
+tmp_src/
 input/
 MasifOutput/
 AnchorOutput/
@@ -14,4 +15,3 @@ AnchorOutput/
 *.zip
 *.out
 *.log
-
