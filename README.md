@@ -1,4 +1,4 @@
-### Data processing for “PocketAnchor: Learning Structure-based Pocket Representations for Protein-Ligand Interaction Prediction”
+## Data processing for “PocketAnchor: Learning Structure-based Pocket Representations for Protein-Ligand Interaction Prediction”
 
 This repository is for reproducing the data processing steps, or anchor generation for customized datasets. 
 
@@ -6,11 +6,11 @@ The training code for this paper can be found at https://github.com/tiantz17/Poc
 
 Note: for just reproducing the results in the paper, there is no need for running the data processing steps, as it may take several days. The processed datasets used in our paper will be provided at https://github.com/tiantz17/PocketAnchor very soon.
 
-## For data processing:
+### For data processing:
 
-### Step 0. Prepare the environment
+#### Step 0. Prepare the environment
 
-If generating MaSIF precomputed features is needed, please pull the corresponding docker image for easy calculation of MaSIF precomputed features:
+If generating MaSIF precomputed features is needed, please pull the corresponding docker image for easy calculation of MaSIF precomputed features (which was created based on https://github.com/LPDI-EPFL/masif):
 
 ```
 docker pull lishuya17/masif-mini-server:20220924
@@ -43,12 +43,16 @@ Then, follow the steps in jupyter notebook files to generate inputs of the Pocke
 Environment:
 
 ```
+numpy
+pandas
+scipy
 scikit-learn
 pymol
-scipy
+pymesh2 0.3
+torch 1.7
 ```
 
-### Step1. Obtain the MaSIF precomputed features:
+#### Step1. Obtain the MaSIF precomputed features:
 
 Just load the data and query the MaSIF server docker. Examples are provided in Step1.Prepare_pdb_files_and_MaSIF_precomputation.ipynb
 
@@ -60,12 +64,12 @@ The server may process hundreds of samples in an hour, depends on the defined nu
 - Failed: finished calculation but did not generate result (Re-submit with redo=True or fixing the pdb file may help sometimes)
 - No such task: no feature files and no state record for this task
 
-### Step2. Calculate the anchor features:
+#### Step2. Calculate the anchor features:
 
 Please follow the examples are provided in Step2.Obtain_anchors.ipynb. All the required source code can be found in /src.
 
-### Step3. Prepare model inputs:
+#### Step3. Prepare model inputs:
 
 For each task, run the corresponding Step3.X
 
-This step will organize the generated features in /AnchorOutput to produce more compact files.
+This step will organize the generated features from /AnchorOutput to produce more compact files.
