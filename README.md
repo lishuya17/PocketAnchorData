@@ -1,7 +1,7 @@
 ### Data processing for “PocketAnchor: Learning Structure-based Pocket Representations for Protein-Ligand Interaction Prediction”
 
 
-If generating MaSIF precomputed features is needed, please download the corresponding docker container for easy calculation of MaSIF precomputed features:
+If generating MaSIF precomputed features is needed, please pull the corresponding docker image for easy calculation of MaSIF precomputed features:
 
 ```
 docker pull lishuya17/masif-mini-server:20220924
