@@ -14,7 +14,11 @@ cd PocketAnchorData
 mkdir AnchorOutput
 mkdir MasifOutput
 docker run -it -p 1213:1213 -v $PWD/input/:/input/ -v $PWD/MasifOutput/:/masif/data/masif_ligand/data_preparation/ lishuya17/masif-mini-server:20220924
+```
 
+Run the following commands in the started container, and adjust the num_workers (default: 16) according to your computational resource. Note that one worker stands for one MaSIF process, which may approximately use 1-6 CPU cores.
+
+```
 cd /masif/data/masif_ligand/
 nohup python -u data_prepare_all_PDB.py --num_workers 16 > prepare_all.log &
 nohup python -u masif_server.py > server.log &
