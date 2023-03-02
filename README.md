@@ -4,7 +4,7 @@ This repository is for reproducing the data processing steps, or anchor generati
 
 The training code for this paper can be found at https://github.com/tiantz17/PocketAnchor.
 
-Note: for just reproducing the results in the paper, there is no need for running the data processing steps, as it may take several days. The processed datasets used in our paper will be provided at https://github.com/tiantz17/PocketAnchor very soon.
+Note: for just reproducing the results in the paper, there is no need for running the data processing steps, as it may take several days. The processed datasets used in our paper are provided at https://github.com/tiantz17/PocketAnchor/.
 
 ### For data processing:
 
